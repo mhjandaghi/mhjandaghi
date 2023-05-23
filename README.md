@@ -7,7 +7,7 @@
 ## 📢 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhjandaghi)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231572B6.svg?logo=Linkedin&logoColor=white)](https://Linkedin.com/mhjandaghi)
-[![Twiteer](https://img.shields.io/badge/Twiteer-%2320232a.svg?logo=Twiteer&logoColor=white)](https://Twiteer.com/mhdi_ld)
+[![Twitter](https://img.shields.io/badge/Twitter-%2320232a.svg?logo=Twitter&logoColor=white)](https://Twitter.com/mhdi_ld)
 [![Discord](https://img.shields.io/badge/Discord-%23593d88.svg?logo=Discord&logoColor=white)](https://Discord.com/843873797647368234)
 
 
