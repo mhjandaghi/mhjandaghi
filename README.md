@@ -5,7 +5,8 @@
 - 📫 How to reach me Mhjandaghi8@gmail.com
 
 ## 📢 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhjandaghi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhjandaghi)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://Linkedin.com/mhjandaghi)
 
 # 📝 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23E34F26.svg?style=for-the-badge&logo=Django&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-hotgreen.svg?style=for-the-badge&logo=Linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=Docker&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/MySQL-%23593d88.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%2320232a.svg?style=for-the-badge&logo=Redis&logoColor=%2361DAFB)
