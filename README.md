@@ -15,7 +15,7 @@
 # 📝 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23E34F26.svg?style=for-the-badge&logo=Django&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-hotgreen.svg?style=for-the-badge&logo=Linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=Docker&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/MySQL-%23593d88.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%2320232a.svg?style=for-the-badge&logo=Redis&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-brown.svg?style=for-the-badge&logo=Flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/Html5-%231572B6.svg?style=for-the-badge&logo=Html&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mhjandaghi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
