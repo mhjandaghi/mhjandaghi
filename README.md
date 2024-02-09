@@ -1,7 +1,7 @@
 ## 🧑‍💻 About Me:
 - 👋 Hi, I’m @mhjandaghi
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Django
+- 🌱 I’m currently learning Docker
 - 📫 How to reach me Mhjandaghi8@gmail.com
 
 
